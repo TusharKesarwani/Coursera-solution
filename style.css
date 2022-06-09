@@ -6,6 +6,11 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.navbar{
+    background-color:aqua;
+}
+
 footer {
     line-height: 50px;
     color: white;
